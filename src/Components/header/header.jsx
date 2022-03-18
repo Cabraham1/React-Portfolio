@@ -1,6 +1,8 @@
 import React from 'react'
 import "./header.css"
 import Cta from './Cta.jsx'
+import Me from '../../assets/Abraham.png'
+import Social from './HeaderSocials'
 
 const header = () => {
   return (
@@ -8,8 +10,18 @@ const header = () => {
     <div className='container header_container'>
       <h5>Hello i'm </h5>
       <h1>Chris</h1>
-      <h5 className='text-light'>FullStack Developer</h5>
+      <h3>FullStack Developer</h3>
       <Cta/>
+      <Social/>
+
+      <div className="me">
+        <img src={Me} alt="Abraham" />
+      </div>
+
+      <a href="#Contact" className='Scroll__down'>
+        Scroll down
+      </a>
+      
     </div>
   </header>
   )

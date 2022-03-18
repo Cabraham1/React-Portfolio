@@ -3,10 +3,10 @@
 *{
   margin: 0px;
   padding: 0px;
-outline: 0px;
-box-sizing: border-box;
-list-style: none;
-text-decoration: none;
+  outline: 0px;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
 }
 
 :root{
@@ -34,7 +34,7 @@ html{
 
 body{
   font-family: 'Poppins', sans-serif;
-  background: var(  --color-bg);
+  background: var(--color-bg);
   color: var(  --color-white);
   line-height: 1.7;
     background-image: url(../src/assets/Lovepik_com-401051737-heavy-metal-texture.png);
@@ -59,7 +59,7 @@ section{
 
 section > h2, section > h5 {
   text-align: center;
-  color: var(  --color-light)
+  color: var(--color-light)
 }
 
 section > h2{
@@ -68,22 +68,22 @@ section > h2{
 }
 
 .text-light{
-  color: var(  --color-primary)
+  color: var(--color-primary)
 }
 
 a{
-  color: var(  --color-primary);
-  transition: var(  --transition)
+  color: var(--color-primary);
+  transition: var(--transition)
 }
 
 a:hover{
-  color: var(  --color-primary)
+  color: var(--color-primary)
 }
 
 .btn{
   width: max-content;
   display: inline-block;
-  color: var(  --color-primary);
+  color: var(--color-primary);
   padding: 0.75rem 1.2rem;
   border-radius: 0.4rem;
   cursor: pointer;

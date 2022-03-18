@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Components/header/header';
-import Nav from './Components/nav/nav';
+import Nav from './Components/nav/Nav';
 import About from './Components/about/about';
 import Experience from './Components/Experience/experience'
 import Work from './Components/work/work'
@@ -19,8 +19,8 @@ const App = () => {
         <Experience />
         <Work />
         <Portfolio />
-        <Testimonial />
         <Contact />
+        <Testimonial />
         <Footer />
       </> 
         
