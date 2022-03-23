@@ -52,13 +52,16 @@ input, textarea{
   background: #BCBDC0;
   border:2px solid var(--color-primary-variant);
   resize: none;
+  
 
 }
+
 
 @media screen and (max-width: 1024px) {
   .contact__container{
     grid-template-columns: 1fr;
     gap:2rem;
+    
   }
 
   

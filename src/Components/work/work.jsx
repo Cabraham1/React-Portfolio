@@ -2,7 +2,7 @@ import React from 'react'
 import "./work.css"
 import {BiCheck} from 'react-icons/bi'
 
-const work = () => {
+const Work = () => {
   return (
     <section id='Work'>
       <h5>Service I Offer</h5>
@@ -118,4 +118,4 @@ const work = () => {
   )
 }
 
-export default work
+export default Work
