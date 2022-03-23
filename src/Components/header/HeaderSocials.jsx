@@ -9,9 +9,9 @@ const HeaderSocials = () => {
   return (
     <div className='Header__Socials'>
       <a href="https://www.linkedin.com/in/abrahamchristopher/" target="_blank" rel="noreferrer" ><BsLinkedin/></a>
-      <a href="https://www.github.com" target="_blank" rel="noreferrer" ><BsGithub/></a>
-      <a href="https://www.Twitter.com" target="_blank" rel="noreferrer" ><BsTwitter/></a>
-      <a href="https://www.facebook.com" target="_blank" rel="noreferrer" ><BsFacebook/></a>
+      <a href="https://github.com/Cabraham1/" target="_blank" rel="noreferrer" ><BsGithub/></a>
+      <a href="https://twitter.com/_Cabraham" target="_blank" rel="noreferrer" ><BsTwitter/></a>
+      <a href="https://web.facebook.com/christopher.abraham.735/" target="_blank" rel="noreferrer" ><BsFacebook/></a>
 
     </div>
   )

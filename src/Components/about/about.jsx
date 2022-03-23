@@ -39,8 +39,13 @@ const about = () => {
             </article>
           </div>
 
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit sapiente cum minima provident perferendis, beatae inventore vitae aliquam doloribus eaque eum! Nobis cumque dolore quia ea soluta earum, dolor cupiditate!
+            <p>I’m Abraham, a multifaceted asset ready to meet your team
+I have a strong JavaScript skill-set with a focus on React & Node. I have always stayed relevant while embracing new technologies.<br />
+I can quickly learn new ideas and trends in technology. My background is in web applications. <br />
+I have over 3 years of experience in designing, developing, coding and maintaining such systems. <br />
+I prefer Frontend development but have the experience to develop in both environments where backend teams are limited. I’m fluent in modern frameworks like Bootstrap, Materialize, WordPress and WooCommerce. <br />
+I'm a motivated, smart, eager to learn, creative problem solver that doesn't take “It can’t be done” for an answer.
+So, let’s create something, I'm ready, are you?
             </p>
             <a href="#Contact" className='btn btn-primary'> Let's Talk</a>
         </div>
