@@ -34,12 +34,12 @@ const about = () => {
             <article className='About__card'>
               <VscFolderLibrary className="about__icon_card"/>
               <h5>Projects</h5>
-              <small>8+ Completed </small>
+              <small>19+ Completed </small>
 
             </article>
           </div>
 
-            <p>I’m Abraham, a multifaceted asset ready to meet your team
+            <p>I’m Abraham Christopher, a multifaceted asset ready to meet your team. 
 I have a strong JavaScript skill-set with a focus on React & Node. I have always stayed relevant while embracing new technologies.<br />
 I can quickly learn new ideas and trends in technology. My background is in web applications. <br />
 I have over 3 years of experience in designing, developing, coding and maintaining such systems. <br />

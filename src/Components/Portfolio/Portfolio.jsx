@@ -18,10 +18,10 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Live Chart App </h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         
@@ -31,10 +31,10 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Dashbord for data design App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         
@@ -44,10 +44,10 @@ const Portfolio = () => {
             <img src={IMG3} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Dashbord for Chat App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         
@@ -57,10 +57,10 @@ const Portfolio = () => {
             <img src={IMG4} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Music web App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         
@@ -70,10 +70,10 @@ const Portfolio = () => {
             <img src={IMG5} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Weather App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         
@@ -83,10 +83,10 @@ const Portfolio = () => {
             <img src={IMG6} alt="" />
           
           </div>
-          <h3>THis is a portfolio item title</h3>
+          <h3>Movei web App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://www.github.com" className="btn" target="_blank" rel="noreferrer">GitHub</a>
-            <a href="https://dribbble.com/Alien_pixels" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
           </div>
           
         

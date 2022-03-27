@@ -1,5 +1,5 @@
 import React from 'react'
-import "./nav.css"
+import './nav.css'
 import {AiOutlineHome} from 'react-icons/ai'
 import {AiOutlineUser} from 'react-icons/ai'
 import {BiBook} from 'react-icons/bi'
@@ -16,7 +16,7 @@ const Nav = () => {
         <a href="#About" onClick={()=> setActiveNav('#About')} className={ActiveNav === '#About' ? 'active' : ''}><AiOutlineUser/></a>
         <a href="#Experience" onClick={()=> setActiveNav('#Experience')}  className={ActiveNav === '#Experience' ? 'active' : ''}><BiBook/></a>
         <a href="#Work" onClick={()=> setActiveNav('#Work')}  className={ActiveNav === '#Work' ? 'active' : ''}><MdOutlineWorkOutline/></a>
-        <a href="#Contact" onClick={()=> setActiveNav('#Contact')}  className={ActiveNav === '#Contact' ? 'active' : ''}><RiContactsBook2Fill/></a>
+        <a href="#Portfolio" onClick={()=> setActiveNav('#Contact')}  className={ActiveNav === '#Contact' ? 'active' : ''}><RiContactsBook2Fill/></a>
       </nav>
     </div>
   )

@@ -65,7 +65,9 @@
 
 .about__content p{
   margin: 2rem 0 2.6rem;
-  font-weight: 10rem;
+  font-weight: 20rem;
+  font-size: 1.1rem;
+  text-align: justify;
 
 }
 
