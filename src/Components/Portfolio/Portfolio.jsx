@@ -31,7 +31,7 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
           
           </div>
-          <h3>Dashbord for data design App</h3>
+          <h3>Dashboard for data design App</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
@@ -44,7 +44,7 @@ const Portfolio = () => {
             <img src={IMG3} alt="" />
           
           </div>
-          <h3>Dashbord for Chat App</h3>
+          <h3>Dashborad for Chat App</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
@@ -83,7 +83,7 @@ const Portfolio = () => {
             <img src={IMG6} alt="" />
           
           </div>
-          <h3>Movei web App</h3>
+          <h3>Movie web App</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>

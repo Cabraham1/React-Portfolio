@@ -64,10 +64,22 @@ header {
   color: var(--color-primary);
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1368px) {
+  .Header__Socials{
+    bottom: 30rem;
+  }
+  .Scroll__down{
+    bottom: 40rem;
+    margin-right: -8rem;
+  }
+} */
+
+@media screen and (min-width: 1024px) {
   .header{
     height: 68vh;
-  }
+   }
+   
+   
 }
 
 @media screen and (max-width: 600px) {
@@ -78,5 +90,6 @@ header {
   .Scroll__down{
     display: none;
   }
-
+  
   }
+  
