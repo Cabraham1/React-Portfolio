@@ -31,7 +31,7 @@ const Portfolio = () => {
             <img src={IMG2} alt="" />
           
           </div>
-          <h3>Dashboard for data design App</h3>
+          <h3>Dashboard for data design</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://github.com/Cabraham1?tab=repositories" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
