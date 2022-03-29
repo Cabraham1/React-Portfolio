@@ -25,15 +25,18 @@ const App = () => {
 
   return (
     <div>     
+     
       {
         loading ?
 
-        ( <ClimbingBoxLoader
-          size={30}
-          color={'#123abc'}
-          loading={loading}
-
-          />
+        (
+            <section className='app'>
+            <ClimbingBoxLoader
+            size={30}
+            color={'#123abc'}
+            loading={loading}
+            />
+          </section>
 
         ):
         
@@ -52,6 +55,7 @@ const App = () => {
       </> 
           )
       }
+     
       
     </div>
   )
